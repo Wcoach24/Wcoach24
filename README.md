@@ -19,6 +19,22 @@ I design and ship AI-powered web products — fast. Most of the work here went f
 
 ---
 
+### 🧰 More builds
+
+**AI & strategy**
+- [AI Strategy Tools](https://github.com/Wcoach24/ai-strategy-tools) — RAG vs Fine-tuning decision framework + EU AI Act navigator
+- [AI Replaceability Score](https://github.com/Wcoach24/ai-replaceability-score) — how automatable is your job, from real automation data
+
+**Assessments & viral tools** (React / Next.js)
+- [Personal Brand Score](https://github.com/Wcoach24/personal-brand-score) · [Founder–Market Fit](https://github.com/Wcoach24/founder-market-fit) · [Productivity Personality Quiz](https://github.com/Wcoach24/productivity-personality-quiz) · [Subscription Waste Calculator](https://github.com/Wcoach24/subscription-waste-calculator)
+
+**Web & creative**
+- [FDD — sci-fi series landing](https://github.com/Wcoach24/fdd-series) ([demo](https://fdd-series.vercel.app)) · [Cuchitas — artisan e-commerce with working cart](https://github.com/Wcoach24/cuchitas-ecommerce)
+
+*… plus more micro-tools and experiments — [browse all repos »](https://github.com/Wcoach24?tab=repositories)*
+
+---
+
 ### 🛠️ Tech I work with
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
